@@ -14,7 +14,7 @@ After that let me show you the result: I've done other sites like this but I hav
 <h3 align="justify"> <i>Honestly, I was satisfied, especially with the responsivity. Of technical novelty in addition to the HTML semantics that I dedicated myself to improving, I believe I only have the use of variables for the color and font"</i> </h3>
 
 <p align="center">
-  <img src="https://github.com/italicnich/terminal/blob/main/readmeimg/var.png" alt="Code Preview" width="500">
+  <img src="https://github.com/italicnich/simple-site/blob/main/readmeimg/var.png" alt="Code Preview" width="500">
 </p>
 
 <h3 align="justify"> <i>I swore it would be more work than just putting in the colors, but variables really make development easier.</i> </h3>
